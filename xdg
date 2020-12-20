@@ -1,0 +1,66 @@
+[
+    {
+        "nu": 45,
+        "m": 100,
+        "i": "server-eu.starve.io",
+        "p": 443,
+        "a": "Europe 1",
+        "ssl": 1
+    },
+    {
+        "nu": 39,
+        "m": 100,
+        "i": "server-eu.starve.io",
+        "p": 444,
+        "a": "Europe 2",
+        "ssl": 1
+    },
+    {
+        "nu": 42,
+        "m": 100,
+        "i": "server-eu.starve.io",
+        "p": 8085,
+        "a": "Europe 3",
+        "ssl": 1
+    },
+    {
+        "nu": 45,
+        "m": 100,
+        "i": "server-eu.starve.io",
+        "p": 446,
+        "a": "Europe 4",
+        "ssl": 1
+    },
+{
+        "nu": 72,
+        "m": 100,
+        "i": "server-na.starve.io",
+        "p": 443,
+        "a": "North America 1",
+        "ssl": 1
+    },
+    {
+        "nu": 103,
+        "m": 100,
+        "i": "server-na.starve.io",
+        "p": 444,
+        "a": "North America 2",
+        "ssl": 1
+    },
+     {
+        "nu": 55,
+        "m": 100,
+        "i": "server-eu.starve.io",
+        "p": 8082,
+        "a": "EuropeLEGACY",
+        "ssl": 1
+    },
+{
+        "nu": 39,
+        "m": 100,
+        "i": "server-na.starve.io",
+        "p": 8081,
+        "a": "North America 1LEGACY",
+        "ssl": 1
+    }
+]
