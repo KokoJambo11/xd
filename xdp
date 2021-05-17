@@ -1,0 +1,18 @@
+[
+  {
+    "nu": 7,
+    "m": 100,
+    "i": "server-eu.starve.io",
+    "p": 443,
+    "a": "Europe 1",
+    "ssl": 1
+  },
+  {
+    "nu": 69,
+    "m": 100,
+    "i": "server-wa.starve.io",
+    "p": 443,
+    "a": "West America 1",
+    "ssl": 1
+  }
+]
