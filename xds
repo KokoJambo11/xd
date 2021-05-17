@@ -1,6 +1,6 @@
 [
   {
-    "nu": 102,
+    "nu": 7,
     "m": 100,
     "i": "server-eu.starve.io",
     "p": 443,
@@ -8,7 +8,7 @@
     "ssl": 1
   },
   {
-    "nu": 60,
+    "nu": 21,
     "m": 100,
     "i": "server-eu.starve.io",
     "p": 444,
@@ -16,7 +16,7 @@
     "ssl": 1
   },
   {
-    "nu": 66,
+    "nu": 16,
     "m": 100,
     "i": "server-eu.starve.io",
     "p": 8085,
@@ -24,7 +24,7 @@
     "ssl": 1
   },
   {
-    "nu": 64,
+    "nu": 12,
     "m": 100,
     "i": "server-eu.starve.io",
     "p": 446,
@@ -32,7 +32,7 @@
     "ssl": 1
   },
   {
-    "nu": 40,
+    "nu": 76,
     "m": 100,
     "i": "server-na.starve.io",
     "p": 443,
@@ -40,7 +40,7 @@
     "ssl": 1
   },
   {
-    "nu": 112,
+    "nu": 72,
     "m": 100,
     "i": "server-na.starve.io",
     "p": 444,
@@ -48,47 +48,7 @@
     "ssl": 1
   },
   {
-    "nu": 49,
-    "m": 100,
-    "i": "server-wa.starve.io",
-    "p": 443,
-    "a": "West America 1",
-    "ssl": 1
-  },
-  {
-    "nu": 28,
-    "m": 100,
-    "i": "server-sa.starve.io",
-    "p": 443,
-    "a": "South America 1",
-    "ssl": 1
-  },
-  {
     "nu": 31,
-    "m": 100,
-    "i": "server-as1.starve.io",
-    "p": 443,
-    "a": "Asia - Singapore 1",
-    "ssl": 1
-  },
-  {
-    "nu": 30,
-    "m": 100,
-    "i": "server-as2.starve.io",
-    "p": 443,
-    "a": "Asia - Tokyo 1",
-    "ssl": 1
-  },
-  {
-    "nu": 27,
-    "m": 100,
-    "i": "server-au.starve.io",
-    "p": 443,
-    "a": "Australia 1",
-    "ssl": 1
-  },
-  {
-    "nu": 54,
     "m": 100,
     "i": "server-eu.starve.io",
     "p": 8082,
@@ -96,23 +56,15 @@
     "ssl": 1
   },
   {
-    "nu": 54,
+    "nu": 49,
     "m": 100,
     "i": "server-na.starve.io",
     "p": 8081,
     "a": "North America 1LEGACY",
     "ssl": 1
   },
-  {
-    "nu": 22,
-    "m": 100,
-    "i": "server-as5.starve.io",
-    "p": 443,
-    "a": "AsiaLEGACY",
-    "ssl": 1
-  },
-  {
-    "nu": 30,
+ {
+    "nu": 18,
     "m": 100,
     "i": "server-eu.starve.io",
     "p": 8083,
@@ -120,19 +72,11 @@
     "ssl": 1
   },
   {
-    "nu": 24,
+    "nu": 21,
     "m": 100,
     "i": "server-na.starve.io",
     "p": 8082,
     "a": "North AmericaVAMP",
-    "ssl": 1
-  },
-  {
-    "nu": 13,
-    "m": 100,
-    "i": "server-as4.starve.io",
-    "p": 443,
-    "a": "AsiaVAMP",
     "ssl": 1
   }
 ]
